@@ -1,3 +1,3 @@
 # lavaca
-Project for my Data Structures class. It's a self-learning guessing game that stores and retrieves information from binary trees
-The game plays only in Spanish at the moment.
+Project for my Data Structures class. It's a self-learning guessing game that stores and retrieves information from binary trees. 
+The gameplay and documentation is in Spanish. An English translation is in the works.
