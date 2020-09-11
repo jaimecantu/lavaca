@@ -1,0 +1,27 @@
+¿Tiene cuernos?
+null
+null
+¿Tiene cuello largo?
+La jirafa
+null
+¿Vive en una granja?
+null
+El venado
+¿Tiene pupilas rectangulares?
+La cabra
+La vaca
+¿Es acuático?
+null
+null
+¿Tiene muchos dientes?
+El tiburón
+El pez
+¿Tiene 9 vidas?
+El gato
+null
+¿Relincha?
+El caballo
+null
+¿Es salvaje?
+El lobo
+El perro

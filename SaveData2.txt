@@ -1,0 +1,18 @@
+¿Tiene cuernos?
+null
+null
+¿Tiene cuello largo?
+La jirafa
+null
+¿Vive en una granja?
+La vaca
+El venado
+¿Es acuático?
+null
+null
+¿Tiene muchos dientes?
+El tiburón
+El pez
+¿Tiene 9 vidas?
+El gato
+El perro
